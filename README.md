@@ -17,7 +17,7 @@ make >= 4.1 (Linux, Mac), 3.81 (Windows)
     Mac: install Xcode command line tools to get make  https://developer.apple.com/xcode/features/
     Windows: http://gnuwin32.sourceforge.net/packages/make.htm
 gcc/g++ >= 7.4.0
-    Linux: gcc / g++ is installed by default on most Linux distros
+    Linux: gcc / g++ is installed by default on most Linux distro
     Mac: same instructions as make - install Xcode command line tools
     Windows: recommend using MinGW
 IO2D
